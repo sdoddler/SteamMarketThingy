@@ -1,19 +1,19 @@
 #################################################################################
 #			sDoddler's Steam Market Thingy				#
 #			   Created by Stephen Dodd				#
-#				06-10-2015					#
-#				   v.01						#
+#				27-10-2015					#
+#				   v.02					#
 #################################################################################
 
 
 				What is it?
 ---------------------------------------------------------------------------------
-This program was created to help manage and view Steam Inventories.
+This program was created to help manage and view Steam Inventories & Items.
 
 -It gathers data from both the Steam Market JSONs and Steam WebAPI.
--It allows users to view the associated content for each item: Icon, Wallpaper & 
-Link to website(or wiki) or to inspect in game. As well as displaying the current 
-market value.
+-It allows users to view the associated content for each item: Float Value, Icon, 
+Wallpaper & Link to website(or wiki) or to inspect in game. As well as displaying 
+the current market value.
 
 -It can also display a price history graph for items (further back than 30 days)
 -And allows users to filter and display items per AppID, Only Marketable items and/or
